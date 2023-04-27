@@ -6,7 +6,4 @@ console.log("Nopde");
 console.log("Nopde");
 console.log("Nopde");
 console.log("Last");
-console.log("Last");
-console.log("Last");
-console.log("ab");
-
+console.log("ba");
